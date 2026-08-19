@@ -1,0 +1,60 @@
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 100;
+  src: url(https://br-lingering-river-axnjpglk.storage.c-4.us-east-2.aws.neon.tech/tibly-site-media/sites/7e88c9ce-aa3a-4455-a1e6-a5187cd88c68/d5e35920c66fa6533edc7ab73dc40525.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 300;
+  src: url(https://br-lingering-river-axnjpglk.storage.c-4.us-east-2.aws.neon.tech/tibly-site-media/sites/7e88c9ce-aa3a-4455-a1e6-a5187cd88c68/2a4998b0f0064952fc7eff40203692e4.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://br-lingering-river-axnjpglk.storage.c-4.us-east-2.aws.neon.tech/tibly-site-media/sites/7e88c9ce-aa3a-4455-a1e6-a5187cd88c68/898acef2d9022f4011fadd307651f908.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 700;
+  src: url(https://br-lingering-river-axnjpglk.storage.c-4.us-east-2.aws.neon.tech/tibly-site-media/sites/7e88c9ce-aa3a-4455-a1e6-a5187cd88c68/79855a667e6abdd4de30d5ca7d21b1ed.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 900;
+  src: url(https://br-lingering-river-axnjpglk.storage.c-4.us-east-2.aws.neon.tech/tibly-site-media/sites/7e88c9ce-aa3a-4455-a1e6-a5187cd88c68/7b6c194c205dedb6fa5ccb47345dec56.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 100;
+  src: url(https://br-lingering-river-axnjpglk.storage.c-4.us-east-2.aws.neon.tech/tibly-site-media/sites/7e88c9ce-aa3a-4455-a1e6-a5187cd88c68/621c22e3bbd625e8c7a7174472e08c7f.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 300;
+  src: url(https://br-lingering-river-axnjpglk.storage.c-4.us-east-2.aws.neon.tech/tibly-site-media/sites/7e88c9ce-aa3a-4455-a1e6-a5187cd88c68/0e6e6606417a02252b8eacc2ad7838d8.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://br-lingering-river-axnjpglk.storage.c-4.us-east-2.aws.neon.tech/tibly-site-media/sites/7e88c9ce-aa3a-4455-a1e6-a5187cd88c68/5919058aa42758f85409e7e025eeaaea.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://br-lingering-river-axnjpglk.storage.c-4.us-east-2.aws.neon.tech/tibly-site-media/sites/7e88c9ce-aa3a-4455-a1e6-a5187cd88c68/104cbeb01442788bb49a3eb95ffa2283.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 900;
+  src: url(https://br-lingering-river-axnjpglk.storage.c-4.us-east-2.aws.neon.tech/tibly-site-media/sites/7e88c9ce-aa3a-4455-a1e6-a5187cd88c68/130fadedd300bede98c760ac9c170ede.ttf) format('truetype');
+}

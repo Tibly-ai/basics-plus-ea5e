@@ -1,0 +1,54 @@
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 100;
+  src: url(https://br-lingering-river-axnjpglk.storage.c-4.us-east-2.aws.neon.tech/tibly-site-media/sites/7e88c9ce-aa3a-4455-a1e6-a5187cd88c68/f8572b111dd8bbeff0e9c3207545a401.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 200;
+  src: url(https://br-lingering-river-axnjpglk.storage.c-4.us-east-2.aws.neon.tech/tibly-site-media/sites/7e88c9ce-aa3a-4455-a1e6-a5187cd88c68/ac7ed43ef5a02dd1fd1f3b73d68ffca6.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 300;
+  src: url(https://br-lingering-river-axnjpglk.storage.c-4.us-east-2.aws.neon.tech/tibly-site-media/sites/7e88c9ce-aa3a-4455-a1e6-a5187cd88c68/9bb7ddbc81621815255f5263db6ba2ba.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://br-lingering-river-axnjpglk.storage.c-4.us-east-2.aws.neon.tech/tibly-site-media/sites/7e88c9ce-aa3a-4455-a1e6-a5187cd88c68/24f9306849f7496aaa03f2b43793d448.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 500;
+  src: url(https://br-lingering-river-axnjpglk.storage.c-4.us-east-2.aws.neon.tech/tibly-site-media/sites/7e88c9ce-aa3a-4455-a1e6-a5187cd88c68/685f1f9c30564f9c0e173e9fe2d8b276.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 600;
+  src: url(https://br-lingering-river-axnjpglk.storage.c-4.us-east-2.aws.neon.tech/tibly-site-media/sites/7e88c9ce-aa3a-4455-a1e6-a5187cd88c68/65bb27c9e4aff83fe5b7940168e7000a.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://br-lingering-river-axnjpglk.storage.c-4.us-east-2.aws.neon.tech/tibly-site-media/sites/7e88c9ce-aa3a-4455-a1e6-a5187cd88c68/c03cd3fa36c2c0956086a96d0d49a459.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 800;
+  src: url(https://br-lingering-river-axnjpglk.storage.c-4.us-east-2.aws.neon.tech/tibly-site-media/sites/7e88c9ce-aa3a-4455-a1e6-a5187cd88c68/a59b39c5e8f14c06adefd76d0c75022a.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 900;
+  src: url(https://br-lingering-river-axnjpglk.storage.c-4.us-east-2.aws.neon.tech/tibly-site-media/sites/7e88c9ce-aa3a-4455-a1e6-a5187cd88c68/164b317bb850db87b64998ad30704235.ttf) format('truetype');
+}
